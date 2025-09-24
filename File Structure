@@ -1,0 +1,9 @@
+project/
+├── streamlit_app.py
+├── requirements.txt
+├── models/
+│   ├── predict.py
+│   ├── random_forest_model.pkl
+│   ├── encoder.pkl
+│   └── model_info.pkl
+└── melbourne_properties.csv
